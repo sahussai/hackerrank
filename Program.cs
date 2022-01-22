@@ -4,7 +4,7 @@ namespace algorithms
 {
     class Program
     {
-        static void Main(string[] args)
+        static void main(string[] args)
         {
             string time = "12:45:00PM";
             // Console.WriteLine(timeConversion(args[0]));
