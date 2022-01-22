@@ -5,7 +5,7 @@ namespace Grading_Students
 {
     class Grading_Students
     {
-        public static void Main()
+        public static void main()
         {
             Console.WriteLine("round is {0}", roundUpFive(50.001));
             List<int> grades = new List<int>() {73, 67, 38, 33};
