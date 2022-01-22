@@ -5,7 +5,7 @@ namespace Apples_and_Oranges
 {
     class Apples_and_Oranges
     {
-        public static void Main()
+        public static void main()
         {
             Console.WriteLine("hello");
             List<int> apples = new List<int> {-2, 2, 1};
