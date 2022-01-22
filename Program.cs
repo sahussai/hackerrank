@@ -7,8 +7,8 @@ namespace algorithms
         static void Main(string[] args)
         {
             string time = "12:45:00PM";
-            Console.WriteLine(timeConversion(args[0]));
-            // Console.WriteLine(timeConversion(time));
+            // Console.WriteLine(timeConversion(args[0]));
+            Console.WriteLine(timeConversion(time));
         }
 
         public static string timeConversion(string s)
