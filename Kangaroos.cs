@@ -4,7 +4,7 @@ namespace Kangaroos
 {
     class Kangaroos
     {
-        public static void Main()
+        public static void main()
         {
             Console.WriteLine("Hello");
             Console.WriteLine(kangaroo(0,3,4,1));
